@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/muffinfinance",
+        href: "https://t.me/muffindefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -162,10 +162,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/muffindefi",
-      },
+      //{
+      //  label: "Announcements",
+      //  href: "https://t.me/muffindefi",
+      //},
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
